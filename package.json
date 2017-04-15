@@ -1,0 +1,19 @@
+{
+  "name": "interview-riddles",
+  "version": "1.0.0",
+  "description": "A collection of interview riddles with their solutions",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/slavik57/interview-riddles.git"
+  },
+  "keywords": [],
+  "author": "Slava Shpitalny <slavik57@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/slavik57/interview-riddles/issues"
+  },
+  "homepage": "https://github.com/slavik57/interview-riddles#readme"
+}
