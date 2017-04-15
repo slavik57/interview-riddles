@@ -4,6 +4,7 @@
   "description": "A collection of interview riddles with their solutions",
   "main": "index.js",
   "scripts": {
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
