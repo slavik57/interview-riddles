@@ -1,3 +1,5 @@
+// The video for this file:
+// https://youtu.be/EUBMNlE2XDw
 const sentence = 'I am a dog Woof';
 const chars = Array.from(sentence);
 console.log(chars);
