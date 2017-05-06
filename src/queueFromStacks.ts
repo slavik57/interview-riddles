@@ -1,3 +1,6 @@
+// The video for this file:
+// https://youtu.be/f2FZbeb2hvo
+
 export interface Stack<T> {
   push(item: T): void;
   pop(): T;

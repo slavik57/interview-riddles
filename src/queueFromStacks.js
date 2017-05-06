@@ -1,3 +1,5 @@
+// The video for this file:
+// https://youtu.be/f2FZbeb2hvo
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 class StackQueue {
